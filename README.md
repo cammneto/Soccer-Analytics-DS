@@ -12,4 +12,3 @@ This Obsidian vault contains the structured learning path for a soccer analytics
 
 Clone or download and open in Obsidian to get started!
 
-# Soccer-Analytics-DS
