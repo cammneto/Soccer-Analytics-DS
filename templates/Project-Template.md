@@ -13,7 +13,7 @@ Brief description of the project’s goal.
 - Results
 
 ## Files
-- [[Dataset.md]]
-- [[Features.md]]
-- [[Models.md]]
-- [[Results.md]]
+- [[ML Studies/Soccer-Analytics-DS/02-Projects/03_Event-Prediction-Model/Dataset]]
+- [[ML Studies/Soccer-Analytics-DS/02-Projects/03_Event-Prediction-Model/Features]]
+- [[ML Studies/Soccer-Analytics-DS/02-Projects/03_Event-Prediction-Model/Models]]
+- [[ML Studies/Soccer-Analytics-DS/02-Projects/03_Event-Prediction-Model/Results]]

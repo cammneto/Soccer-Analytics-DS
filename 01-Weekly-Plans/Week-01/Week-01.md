@@ -36,4 +36,4 @@
 		- [ ] EDA on match results and goals.
 
 ## 🔁 Linked Projects
-- [[2025-06_Match-Outcome-Prediction]]
+- [[01_Match-Outcome-Prediction]]
