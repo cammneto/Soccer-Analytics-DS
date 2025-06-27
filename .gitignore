@@ -1,0 +1,16 @@
+# Obsidian-specific
+.obsidian/
+.vault/
+
+# OS / editor temp files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Archives and zips
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
